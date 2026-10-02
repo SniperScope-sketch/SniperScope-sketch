@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Pavan 👋
 
-<!--
-**SniperScope-sketch/SniperScope-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | CSE (IoT, Cybersecurity & Blockchain)
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/pavan-a-571880289)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)]([YOUR_LEETCODE_URL](https://leetcode.com/u/5mJsvIO2Kn/))
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)]([YOUR_HACKERRANK_URL](https://www.hackerrank.com/profile/pavanar5689))
+
+## 🛠️ Skills
+
+- C
+- HTML
+- CSS
+- JavaScript
+- SQL
+- MongoDB
+
+## 🚀 Projects
+
+### College Event Registration Portal
+Full-stack event registration website using HTML, CSS, JavaScript, Node.js, Express and MongoDB.
+
+## 📜 Certifications
+
+- Add your certification here
+- Add another certification here
+
+## 📫 Contact
+
+📧 your-email@example.com
