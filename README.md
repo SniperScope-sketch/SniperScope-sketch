@@ -17,16 +17,6 @@
 - SQL
 - MongoDB
 
-## 🚀 Projects
-
-### College Event Registration Portal
-Full-stack event registration website using HTML, CSS, JavaScript, Node.js, Express and MongoDB.
-
-## 📜 Certifications
-
-- Add your certification here
-- Add another certification here
-
 ## 📫 Contact
 
-📧 your-email@example.com
+📧 pavanar5689@gmail.com
